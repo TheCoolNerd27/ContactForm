@@ -57,7 +57,7 @@ class contactForm extends Component{
           .catch(err => console.error('Oh well, you failed. Here some thoughts on the error that occured:', err))
       }
     componentDidMount(){
-        emailjs.init("user_IwzvkDPOO0R5SoSc8CgHQ");
+        emailjs.init("user_id");
     }
     render(){
         return(
