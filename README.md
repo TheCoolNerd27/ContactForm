@@ -1,4 +1,4 @@
-# ContactForm
+# Contact Form
 A contact form using React which can send the form responses through email.
 ### How to Setup
 ```
